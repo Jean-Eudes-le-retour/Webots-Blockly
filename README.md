@@ -15,6 +15,8 @@ Webots-Blockly [Video Tutorials](https://youtube.com/playlist?list=PLSPNU4D3HphR
 
 [Webots-Blockly Website](https://dev.stormingrobots.com)
 
+https://stormingrobots.com/prod2/dev.html
+
 [Webots Website](https://cyberbotics.com/)
 
 [Google Blockly](https://github.com/google/blockly)
